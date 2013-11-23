@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mime-types (1.25)
+    rack (1.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mime-types
+  rack
